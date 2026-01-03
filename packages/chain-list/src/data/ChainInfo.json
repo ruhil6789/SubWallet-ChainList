@@ -34,6 +34,7 @@
       "hasNativeNft": false,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -78,6 +79,7 @@
       "hasNativeNft": true,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -194,6 +196,7 @@
       "hasNativeNft": false,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": 3342,
       "crowdloanFunds": [
         {
@@ -241,6 +244,7 @@
       "hasNativeNft": true,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -292,6 +296,7 @@
         "PSP34",
         "PSP22"
       ],
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -333,6 +338,7 @@
         "PSP34",
         "PSP22"
       ],
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -418,6 +424,7 @@
       "hasNativeNft": true,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -457,6 +464,7 @@
       "hasNativeNft": true,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -631,6 +639,7 @@
         "PSP34",
         "PSP22"
       ],
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -667,6 +676,7 @@
         "PSP34",
         "PSP22"
       ],
+      "supportProxy": true,
       "crowdloanParaId": 3335,
       "crowdloanFunds": [
         {
@@ -770,6 +780,7 @@
         "PSP34",
         "PSP22"
       ],
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -834,6 +845,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -881,6 +893,7 @@
       "hasNativeNft": false,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -920,6 +933,7 @@
         "PSP34",
         "PSP22"
       ],
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -955,6 +969,7 @@
       "hasNativeNft": true,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -988,6 +1003,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -1045,6 +1061,7 @@
       "hasNativeNft": false,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -1093,6 +1110,7 @@
       "hasNativeNft": false,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -1151,6 +1169,7 @@
       "hasNativeNft": false,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -1183,6 +1202,7 @@
       "hasNativeNft": false,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -1231,6 +1251,7 @@
       "hasNativeNft": false,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -1291,6 +1312,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -1339,6 +1361,7 @@
       "hasNativeNft": false,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -1374,6 +1397,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -1422,6 +1446,7 @@
       "hasNativeNft": false,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -1466,6 +1491,7 @@
       "hasNativeNft": false,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -1578,6 +1604,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": 3350,
       "crowdloanFunds": [
         {
@@ -1644,6 +1671,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -1733,6 +1761,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -1780,6 +1809,7 @@
       "hasNativeNft": false,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -1817,6 +1847,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": 3353,
       "crowdloanFunds": [
         {
@@ -1865,6 +1896,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -1913,6 +1945,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": 2012,
       "crowdloanFunds": [
         {
@@ -1972,6 +2005,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -2007,6 +2041,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -2062,6 +2097,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -2095,6 +2131,7 @@
       "hasNativeNft": false,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -2130,6 +2167,7 @@
       "hasNativeNft": false,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -2162,6 +2200,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -2192,6 +2231,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -2230,6 +2270,7 @@
       "hasNativeNft": true,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -2266,6 +2307,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -2314,6 +2356,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -2362,6 +2405,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -2412,6 +2456,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -2467,6 +2512,7 @@
       "hasNativeNft": true,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -2505,6 +2551,7 @@
       "hasNativeNft": true,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -2542,6 +2589,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -2591,6 +2639,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -2627,6 +2676,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -2675,6 +2725,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -2722,6 +2773,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -2781,6 +2833,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -2828,6 +2881,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -2861,6 +2915,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -2931,6 +2986,7 @@
       "hasNativeNft": true,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -2983,6 +3039,7 @@
       "hasNativeNft": true,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -3030,6 +3087,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -3086,6 +3144,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": [],
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -3119,6 +3178,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -3151,6 +3211,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -3198,6 +3259,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -3248,6 +3310,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -3306,6 +3369,7 @@
       "hasNativeNft": true,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -3339,6 +3403,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -3398,6 +3463,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -3446,6 +3512,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -3502,6 +3569,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -3560,6 +3628,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -3592,6 +3661,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -3624,6 +3694,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -3659,6 +3730,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -3692,6 +3764,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -3752,6 +3825,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -3787,6 +3861,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -3832,6 +3907,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -3877,6 +3953,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -3921,6 +3998,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -3963,6 +4041,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -3995,6 +4074,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -4025,6 +4105,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -4055,6 +4136,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -4085,6 +4167,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -4117,6 +4200,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -4150,6 +4234,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -4197,6 +4282,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -4227,6 +4313,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -4272,6 +4359,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -4319,6 +4407,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -4349,6 +4438,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -4381,6 +4471,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -4423,6 +4514,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -4467,6 +4559,7 @@
       "hasNativeNft": false,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -4497,6 +4590,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -4544,6 +4638,7 @@
       "hasNativeNft": false,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -4591,6 +4686,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -4623,6 +4719,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -4655,6 +4752,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -4743,6 +4841,7 @@
       "hasNativeNft": false,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -4778,6 +4877,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -4810,6 +4910,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -4869,6 +4970,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -4901,6 +5003,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -4933,6 +5036,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -4965,6 +5069,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -4997,6 +5102,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -5029,6 +5135,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -5067,6 +5174,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -5103,6 +5211,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -5150,6 +5259,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -5184,6 +5294,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -5216,6 +5327,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -5271,6 +5383,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -5315,6 +5428,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -5359,6 +5473,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -5389,6 +5504,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -5431,6 +5547,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -5461,6 +5578,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -5503,6 +5621,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -5535,6 +5654,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -5567,6 +5687,7 @@
       "hasNativeNft": false,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -5602,6 +5723,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -5634,6 +5756,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -5667,6 +5790,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -5699,6 +5823,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": 3354,
       "crowdloanFunds": [
         {
@@ -5754,6 +5879,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -5786,6 +5912,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -5818,6 +5945,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -5851,6 +5979,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -5881,6 +6010,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -5916,6 +6046,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": 2025,
       "crowdloanFunds": [
         {
@@ -5974,6 +6105,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -6006,6 +6138,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -6038,6 +6171,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -6071,6 +6205,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -6106,6 +6241,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -6142,6 +6278,7 @@
         "GRC20",
         "VFT"
       ],
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -6177,6 +6314,7 @@
       "hasNativeNft": false,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -6216,6 +6354,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -6256,6 +6395,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -6352,6 +6492,7 @@
       "hasNativeNft": false,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -6399,6 +6540,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -6431,6 +6573,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -6525,6 +6668,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -6615,6 +6759,7 @@
       "hasNativeNft": false,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -6657,6 +6802,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -6687,6 +6833,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -6729,6 +6876,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -6759,6 +6907,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -6801,6 +6950,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -6843,6 +6993,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -6885,6 +7036,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -6915,6 +7067,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -6947,6 +7100,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -6996,6 +7150,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -7038,6 +7193,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -7068,6 +7224,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -7098,6 +7255,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -7128,6 +7286,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -7173,6 +7332,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -7215,6 +7375,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -7245,6 +7406,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -7275,6 +7437,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -7305,6 +7468,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -7337,6 +7501,7 @@
       "hasNativeNft": null,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -7370,6 +7535,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -7400,6 +7566,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -7436,6 +7603,7 @@
       "hasNativeNft": false,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -7478,6 +7646,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -7508,6 +7677,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -7564,6 +7734,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -7596,6 +7767,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -7652,6 +7824,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -7688,6 +7861,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -7727,6 +7901,7 @@
         "GRC20",
         "VFT"
       ],
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -7759,6 +7934,7 @@
       "hasNativeNft": false,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -7794,6 +7970,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -7854,6 +8031,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -7918,6 +8096,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": [
         {
@@ -7965,6 +8144,7 @@
       "hasNativeNft": null,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -7997,6 +8177,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -8032,6 +8213,7 @@
       "hasNativeNft": true,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -8067,6 +8249,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -8130,6 +8313,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -8163,6 +8347,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -8195,6 +8380,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -8227,6 +8413,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -8259,6 +8446,7 @@
       "hasNativeNft": null,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -8291,6 +8479,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -8407,6 +8596,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -8439,6 +8629,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -8499,6 +8690,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -8541,6 +8733,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -8576,6 +8769,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -8641,6 +8835,7 @@
       "hasNativeNft": null,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -8676,6 +8871,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -8708,6 +8904,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -8747,6 +8944,7 @@
       "hasNativeNft": true,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -8951,6 +9149,7 @@
       "hasNativeNft": true,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -9040,6 +9239,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -9074,6 +9274,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -9107,6 +9308,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -9187,6 +9389,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -9304,6 +9507,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -9336,6 +9540,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -9368,6 +9573,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -9492,6 +9698,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -9854,6 +10061,7 @@
       "hasNativeNft": null,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -10234,6 +10442,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -10352,6 +10561,7 @@
       "hasNativeNft": false,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -10411,6 +10621,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -10635,6 +10846,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -10830,6 +11042,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -10891,6 +11104,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -10980,6 +11194,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -11012,6 +11227,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -11076,6 +11292,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -11123,6 +11340,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -11380,6 +11598,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -11466,6 +11685,7 @@
       "hasNativeNft": null,
       "supportStaking": true,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -11530,6 +11750,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -11593,6 +11814,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -11628,6 +11850,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -11851,6 +12074,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -11910,6 +12134,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -12015,6 +12240,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -12054,6 +12280,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -12089,6 +12316,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -12175,6 +12403,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -12207,6 +12436,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -12269,6 +12499,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -12334,6 +12565,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -12366,6 +12598,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -12426,6 +12659,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -12459,6 +12693,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -12491,6 +12726,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -12523,6 +12759,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -12583,6 +12820,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -12615,6 +12853,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -12685,6 +12924,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -12717,6 +12957,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -12804,6 +13045,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -12837,6 +13079,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -12869,6 +13112,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -12915,6 +13159,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -12947,6 +13192,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -12993,6 +13239,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -13028,6 +13275,7 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
+      "supportProxy": true,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
